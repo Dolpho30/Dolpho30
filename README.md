@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JerseySTEM**
 
-- 🌱 I’m currently learning **Quality Assurance and Cybersecurity**
+- 🌱 I’m currently learning **Cybersecurity and Quality Assurance**
 
 - 💬 Ask me about **Phyton**
 
