@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Quality Assurance and Cybersecurity**
 
-- 💬 Ask me about **SQL, Linux, Phyton, Postman, VS Code**
+- 💬 Ask me about **Phyton**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adolpho-pereira/](https://www.linkedin.com/in/adolpho-pereira/)
 
